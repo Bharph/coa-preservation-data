@@ -1,6 +1,6 @@
 # CoA preservation data
 
-Recovered **Chronicles of Azeroth (CoA)** data from the last days of the live realms
+Recovered **Conquest of Azeroth (CoA)** data from the last days of the live realms
 (shutdown ~2026-09-04). Packed for the Conquest of AzerothCore community.
 
 This is **not** a server, client, or `Spell.dbc`. It is player/client-side data that
